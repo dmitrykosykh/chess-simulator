@@ -1,0 +1,29 @@
+.dialog-color-selection {
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.dialog-color-selection__white {
+  background-color: white;
+  width: 70px;
+  height: 70px;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.dialog-color-selection__black {
+  background-color: black;
+  width: 70px;
+  height: 70px;
+  border: 1px solid black;
+  margin-left: 30px;
+  cursor: pointer;
+}
+
+.dialog-color-selection__title {
+  color: #902020;
+  font-size: 30px;
+  font-weight: 600;
+}

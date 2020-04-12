@@ -1,0 +1,15 @@
+.dialog-level-selection {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.dialog-level-selection__level {
+  width: 100px;
+  height: 50px;
+  background-color: white;
+  padding: 10px;
+  border: 5px solid black;
+  border-radius: 3px;
+  cursor: pointer;
+}
